@@ -5,7 +5,7 @@
 ### Livros para base de pesquisa
 [Arquivos](https://github.com/ManicobaFabio/TCC_DKB_GRUPO8/tree/main/references/books)
 
-### Sites uteis
+### Sites úteis
 [Lista](https://github.com/ManicobaFabio/TCC_DKB_GRUPO8/blob/main/references/web.md)
 
 ### 
