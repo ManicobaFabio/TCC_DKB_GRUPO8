@@ -1,9 +1,20 @@
 # Links:
 
-* [Game UI Database](https://www.gameuidatabase.com/index.php)
+## UI & UX em Game Design
 
-* [Interface in game](https://interfaceingame.com/)
+  * [Game UI Database](https://www.gameuidatabase.com/index.php)
 
-* [Game UX Videos](https://www.youtube.com/@MBUX79)
+  * [Interface in game](https://interfaceingame.com/)
 
-* [Game Patterns](http://www.game-patterns.com/#!/)
+  * [Game UX Videos](https://www.youtube.com/@MBUX79)
+
+  * [Game Patterns](http://www.game-patterns.com/#!/)
+
+## UI & UX em geral
+
+  * [Stack Sorted](https://stacksorted.com/)
+  
+
+## Desenvolvimento de Jogos
+
+  * [Rami Ismail Blog](https://ltpf.ramiismail.com/)
