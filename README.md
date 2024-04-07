@@ -2,7 +2,7 @@
 
 ### [Livros para base de pesquisa](https://github.com/ManicobaFabio/TCC_DKB_GRUPO8/tree/main/references/books)
 
-### [Sites úteis]([https://github.com/ManicobaFabio/TCC_DKB_GRUPO8/blob/main/references/web.md](https://github.com/ManicobaFabio/TCC_DKB_GRUPO8/blob/main/references/web.md))
+### [Sites úteis](https://github.com/ManicobaFabio/TCC_DKB_GRUPO8/blob/main/references/web.md)
 
 ## Tema proposto: UI e UX em jogos digitais
   ### Um estudo sobre como a interface em jogos impacta na experiência do jogador.
