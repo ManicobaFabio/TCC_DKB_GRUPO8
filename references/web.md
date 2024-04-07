@@ -1,7 +1,9 @@
-[Game UI Database](https://www.gameuidatabase.com/index.php)
+Links:
 
-[Interface in game](https://interfaceingame.com/)
+* [Game UI Database](https://www.gameuidatabase.com/index.php)
 
-[Game UX Videos](https://www.youtube.com/@MBUX79)
+* [Interface in game](https://interfaceingame.com/)
 
-[Game Patterns](http://www.game-patterns.com/#!/)
+* [Game UX Videos](https://www.youtube.com/@MBUX79)
+
+* [Game Patterns](http://www.game-patterns.com/#!/)
