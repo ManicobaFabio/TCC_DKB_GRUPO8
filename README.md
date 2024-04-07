@@ -7,7 +7,7 @@
 ## Tema proposto: UI e UX em jogos digitais
   ### Um estudo sobre como a interface em jogos impacta na experiência do jogador.
 
-## Propostas iniciais
+# Propostas iniciais
 
   * Pesquisa generalista em UI e UX; Como é realizada a etapa de criação do frontend de aplicações e softwares em geral. 
 
@@ -17,7 +17,7 @@
 
   * Criação de um documento unificado para estudo e apoio na criação de UI para jogos.
 
-## Projeto de desenvolvimento
+# Projeto de desenvolvimento
 
  * Criação de um jogo para computador, utilizando as pesquisas e documentações realizadas durante o TCC para apoio na construção das interfaces.
 
